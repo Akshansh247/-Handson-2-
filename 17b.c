@@ -1,3 +1,13 @@
+/*
+============================================================================
+Name :17.c
+Author : Akshansh Jain
+Description : Write a program to execute ls -l | wc.
+a. use dup2
+
+Date: 9th Oct, 2023.
+============================================================================
+*/
 #include <stdio.h>
 #include <unistd.h>
 #include <stdlib.h>

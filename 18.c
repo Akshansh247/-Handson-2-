@@ -1,3 +1,13 @@
+/*
+============================================================================
+Name :18.c
+Author : Akshansh Jain
+Description : total number of directories on the pwd.
+execute ls -l | grep ^d | wc ? Use only dup2.
+
+Date: 10th Oct, 2023.
+============================================================================
+*/
 #include <stdio.h>
 #include <unistd.h>
 #include <stdlib.h>

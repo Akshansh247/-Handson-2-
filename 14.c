@@ -1,3 +1,11 @@
+/*
+============================================================================
+Name :14.c
+Author : Akshansh Jain
+Description :  a simple program to create a pipe, write to the pipe, read from pipe and display on
+the monitor.
+============================================================================
+*/
 #include <stdio.h>
 #include <unistd.h>
 #include <stdlib.h>

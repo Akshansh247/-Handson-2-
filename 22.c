@@ -1,3 +1,12 @@
+/*
+============================================================================
+Name :22.c
+Author : Akshansh Jain
+Description : a program to wait for data to be written into FIFO within 10 seconds, use select
+system call with FIFO.
+Date: 10 Oct, 2023.
+============================================================================
+*/
 #include <stdio.h>
 #include <unistd.h>
 #include <stdlib.h>

@@ -1,3 +1,12 @@
+/*
+============================================================================
+Name :21.c
+Author : Akshansh Jain
+Description : two programs so that both can communicate by FIFO -Use two way communication.
+
+Date: 10th Oct, 2023.
+============================================================================
+*/
 #include <stdio.h>
 #include <unistd.h>
 #include <stdlib.h>

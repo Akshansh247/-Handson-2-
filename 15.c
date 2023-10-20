@@ -1,3 +1,11 @@
+/*
+============================================================================
+Name :15.c
+Author : Akshansh Jain
+Description : a simple program to send some data from parent to the child process.
+Date: 8th Oct 2023.
+============================================================================
+*/
 #include <stdio.h>
 #include <unistd.h>
 #include <stdlib.h>
